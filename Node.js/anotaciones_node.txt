@@ -1,0 +1,11 @@
+exportar e importar elementos en node.js
+
+module.exports.nombreAdar = Nombre_funcion
+
+Importar:
+para importar un modulo exportado es necesariio usar la palabra clave 
+require() para confundir con import de reat=
+
+const Nombre_variable = require("./Nombre_de_lo_exportado");
+./ si esta en la misma carperta, si no se da la ruta requerida para llegar
+a ella.

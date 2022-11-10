@@ -1,0 +1,6 @@
+deuda: {
+	john: 5800
+	sebas: 645
+	jerson: 2000
+}
+	
